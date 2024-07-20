@@ -1,0 +1,27 @@
+[
+  {
+    "role": "AI & Python Developer Intern",
+    "organisation": "Dtool Incorporation",
+    "startDate": "July, 2024",
+    "endDate": "Present",
+    "experiences": ["Worked on multiple AI projects and tasks.", "Built websites in React and integrated AI based solutions."],
+    "imageSrc": "history/google.png"
+  },
+  {
+    "role": "Vice President",
+    "organisation": "AICP QAU",
+    "startDate": "Oct, 2023",
+    "endDate": "June, 2024",
+    "experiences": ["Coordinated and directed initiatives to bolster organization presnece."],
+    "imageSrc": "history/microsoft.png"
+  },
+  {
+    "role": "Community Engagement Lead",
+    "organisation": "GDSC QAU",
+    "startDate": "Oct, 2023",
+    "endDate": "June, 2024",
+    "experiences": [
+      "Facilitated a 20% increase in active involvement within the community."    ],
+    "imageSrc": "history/netflix.png"
+  }
+]

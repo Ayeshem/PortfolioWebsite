@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Face Attendance System",
+    "imageSrc": "projects/project.png",
+    "description": "An AI-powered solution that uses facial recognition technology to automate and streamline attendance tracking.",
+    "skills": ["React", "Node.js", "AI"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Ayeshem/FaceAttendanceSystem"
+  },
+  {
+    "title": "Titanic Survival Prediction",
+    "imageSrc": "projects/project.png",
+    "description": "uses machine learning algorithms to analyze passenger data and predict their likelihood of survival.",
+    "skills": ["Python", "ML", "Data cleaning", "Exploratory data analysis"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Ayeshem/Titanic-Survival-Prediction-using-ML"
+  },
+  {
+    "title": "Crop Recommender",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["ML", "Python", "Data Analysis"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Ayeshem/Crop_recommender_ML"
+  }
+]
